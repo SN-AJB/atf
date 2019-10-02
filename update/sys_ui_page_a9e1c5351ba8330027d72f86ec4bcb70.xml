@@ -2,7 +2,7 @@
     <sys_ui_page action="INSERT_OR_UPDATE">
         <category>general</category>
         <client_script/>
-        <description>Final Form</description>
+        <description>For the Jace!</description>
         <direct>false</direct>
         <endpoint>x_8821_atf_Test UI Page.do</endpoint>
         <html><![CDATA[<?xml version="1.0" encoding="utf-8" ?>
